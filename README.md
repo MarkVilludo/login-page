@@ -49,7 +49,7 @@ html
 Now, Tailwind CSS is installed and configured in your Laravel project. You can start using the Tailwind CSS classes in your views or components.
 ```
 
-### Publish the Sanctum configuration and migration files using the vendor:publish Artisan command. The sanctum configuration file will be placed in your application's config directory:
+### Publish login view login blade file
 ```
 php artisan vendor:publish --provider="MarkVilludo\LoginPage\LoginServiceProvider" --tags=views
 ```
