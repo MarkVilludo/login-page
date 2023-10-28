@@ -1,4 +1,4 @@
-# Login page lang pang CMS
+# Login page lang pang CMS Tailwind CSS and Laravel
 ## Installation
 
 Require this package with composer.
