@@ -55,6 +55,5 @@ php artisan vendor:publish --provider="MarkVilludo\LoginPage\LoginServiceProvide
 ```
 
 ## License
-
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
